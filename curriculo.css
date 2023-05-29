@@ -1,0 +1,19 @@
+.quem__sou {
+    box-sizing: border-box; /*os elementos vão respeitar a borda e não ultrapassar, vão acontecer dentro*/
+    padding: 2% 20% 0 30%;
+}
+
+.teste {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 188px;
+}
+.informacoes {
+    
+}
+
+.informacoes__experiência {
+    
+}
